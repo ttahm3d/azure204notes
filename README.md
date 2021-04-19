@@ -1,5 +1,4 @@
 # AZ-204 Notes
 
-Read in the order
-
-- [ServerlessApps](./serverlessapps/README.md)
+- [Serverless Apps](./serverlessapps/README.md)
+- [Virtual Machines](./virtualmachines/README.md)
